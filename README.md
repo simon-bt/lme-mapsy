@@ -19,6 +19,10 @@
 
 ## Overview
 
+This repository contains the code used to process and analyse massively parallel splicing assay data for the study:
+
+Bonnal, S., Bajew, S., Martinez-Corral, R., et al. **Core splicing architecture and early spliceosomal recognition determine microexon sensitivity to SRRM3/4.** _Nature Structural & Molecular Biology_ (2025). [doi.org/10.1038/s41594-025-01634-1](https://doi.org/10.1038/s41594-025-01634-1)
+
 ## Project Structure
 
 ```
