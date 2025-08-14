@@ -40,6 +40,15 @@ Bonnal, S., Bajew, S., Martinez-Corral, R., et al. **Core splicing architecture 
 
 ## Dependencies
 
+```
+python >= 3.9
+pandas >= 1.3.0
+regex >= 2021.8.3
+biopython >= 1.79
+numpy >= 1.21.0
+gzip
+```
+
 ## Usage
 
 ### First Steps
